@@ -1,1 +1,1 @@
-Tetas de mono  azul 
+print('enanos')
